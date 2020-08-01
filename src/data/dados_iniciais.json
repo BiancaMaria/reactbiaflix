@@ -1,0 +1,174 @@
+{
+  "categorias": [
+    {
+      "titulo": "Front End",
+      "link": "https://www.alura.com.br/formacao-front-end",
+      "cor": "#6BD1FF",
+      "link_extra": {
+        "text": "Formação de Front End na Alura",
+        "url": "https://www.alura.com.br/cursos-online-front-end"
+      },
+      "videos": [
+        {
+          "titulo": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
+          "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
+        },
+        {
+          "titulo": "CSS Grid Layout - Matheus Castiglione",
+          "url": "https://youtu.be/HBlBNAtFcdw"
+        },
+        {
+          "titulo": "Normalize ou Reset CSS?",
+          "url": "https://youtu.be/qA6ImwctkrM"
+        },
+        {
+          "titulo": "O que estudar antes de tentar aprender um Framework JavaScript? (React, Angular, Vue)",
+          "url": "https://youtu.be/QzDjdlF1BQI"
+        },
+        {
+          "titulo": "Template String: Interpolando strings com JavaScript #AluraMais",
+          "url": "https://www.youtube.com/watch?v=ORI_HTXaIw0"
+        },
+        {
+          "titulo": "Estilização Imersão React 01 - Estilos globais, reset e Menu",
+          "url": "https://youtu.be/nDxp3YEpR1E?list=PLbcp5RKTX5wNF34qxISyWY6kignmhBQRT"
+        }
+                
+      ]
+    },
+    {
+      "titulo": "Vídeos Gerais",
+      "cor": "#00C86F",
+      "videos": [
+        {
+          "titulo": "10 Dicas Para Ir De Iniciante a Avançado Na Programação",
+          "url": "https://youtu.be/DmSNs_cmTQQ"
+        },
+        {
+          "titulo": "Conseguir Trabalho Como Programador (Mesmo sem ter experiência)",
+          "url": "https://youtu.be/EhiuTlHxzTc"
+        },
+        {
+          "titulo": "Desafio: 10 projetos rápidos para treinar Programação e conseguir um Emprego",
+          "url": "https://youtu.be/fYR9L2ZmodM"
+        },
+        {
+          "titulo": "4 mitos sobre programação",
+          "url": "https://youtu.be/yj0FR_gm0sM"
+        }, 
+        {
+          "titulo": "Como explicar programação para os pais? - Vida de Programadora",
+          "url": "https://youtu.be/50JOSiUKBZw"
+        }
+      ]
+    },
+    {
+      "titulo": "Músicas Preferidas",
+      "cor": "#9cd33b",
+      "videos": [
+        {
+          "titulo": "Girassol - Cidade Negra",
+          "url": "https://youtu.be/Kt1MpsQ-jiA"
+        },
+        {
+          "titulo": "Vanessa da Mata - Ai Ai Ai ",
+          "url": "https://youtu.be/pgiWm5jxULs?list=PLXvJdFMPhGHjSExamtLjwHOmKff4P_-Cn"
+        },
+        {
+          "titulo": "Vitor Kley - O Sol (Videoclipe Oficial)",
+          "url": "https://youtu.be/YVJijQIualA?list=PLWjA58VFmot6O2OVrCw5bkKxuORB0bSPS"
+        },
+        {
+          "titulo": "Zeca Baleiro - Lenha (Líricas) [Ao Vivo]",
+          "url": "https://youtu.be/BHq6UfsKGiU"
+        },
+        {
+          "titulo": "Tiago Iorc e Anavitória no 7° Festival NOVABRASIL - TREVO",
+          "url": "https://youtu.be/XU9VDgRHfvs"
+        }
+      ]
+    },
+    {
+      "titulo": "Músicas Católicas",
+      "cor": "orange",
+      "videos": [
+        {
+          "titulo": " Rosa de Saron - Um Dia (Clipe Oficial)",
+          "url": "https://youtu.be/k1WCVS9wcg4"
+        },
+        {
+          "titulo": "Rosa de Saron - A Fênix (Clipe Oficial)",
+          "url": "https://youtu.be/GbED6G7LO9U"
+        },
+        {
+          "titulo": "Rosa de Saron - Mire as Estrelas (Clipe Oficial)",
+          "url": "https://youtu.be/U2nq2KqEeYI"
+        },
+        {
+          "titulo": "Cheiro de rosas - Colo de Deus",
+          "url": "https://youtu.be/DYytfRCHGdc"
+        },
+        {
+          "titulo":" Acaso não sabeis - Colo de Deus",
+          "url": "https://youtu.be/tCpISZvKeWY"
+        }
+      ]
+    },
+    {
+      "titulo": "Séries",
+      "cor": "red",
+      "link_extra": {
+        "text": "Netflix, Amazon Prime Vídeo, Oi play",
+        "url": "https://www.netflix.com/br/"
+      },
+      "videos": [
+        {
+          "titulo": "Stranger Fings - Série",
+          "url": "https://youtu.be/13RzFlVP2MY"
+        },
+        {
+          "titulo": "The Good Doctor - Série",
+          "url": "https://youtu.be/N7SmiNgi41g?list=PLDe0CguuqcMCjtM3vaCXcKWtFB0BOAMbM"
+        },
+        {
+          "titulo": "Manifest - Mistério do vôo 828 - Série",
+          "url": "https://youtu.be/BPpkxvYKckY?list=PLvyEBPTmnTC9tVW53KnBeDpPC7kPvLjNn"
+        },
+        {
+          "titulo": "Sobrenatural - Série",
+          "url": "https://youtu.be/9iI-hICcCFw?list=PLBVanY1YHrFJafbT6r-4idqmkKnKbxKuN"
+        },
+        {
+          "titulo": "Chicago Med - Série",
+          "url": "https://youtu.be/EhGy3Loqhr8?list=PLMqvCvONPpCsohgkrHZauvBn5d-3eMcqL"
+        }
+      ]
+    },
+    {
+      "titulo": "Lugares Favoritos",
+      "cor": "#6b5be2",
+      "videos": [
+        {
+          "titulo": "Como estudar melhor?",
+          "url": "https://www.youtube.com/watch?v=Is6c9KSGCbk&feature=youtu.be"
+        },
+        {
+          "titulo": "Faculdade",
+          "url": "https://www.youtube.com/watch?v=jw06H8esyzQ&feature=youtu.be"
+        },
+        {
+          "titulo": "Frameworks",
+          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+        },
+        {
+          "titulo": "A mágica do Aprendizado",
+          "url": "https://www.youtube.com/watch?v=oTEXzpfEpPY"
+        },
+        {
+          "titulo": "Como aprender a programar?",
+          "url": "https://www.youtube.com/watch?v=MwCx2qKdbDw&feature=youtu.be"
+        }
+      ]
+    }
+  ]
+}
